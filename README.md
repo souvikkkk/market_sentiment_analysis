@@ -14,6 +14,16 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 - Columns: `Account`, `Execution Price`, `Size USD`, `Side`, `Closed PnL`, `Fee`, `Timestamp IST`, etc.
 - Captures granular trade details for thousands of trades across multiple accounts.
 
+## Link to dataset   
+### Historical Data    
+
+- https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing    
+
+### Fear Greed Index link:    
+
+- https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing     
+
+
 ---
 
 ## 🎯 Project Objectives
