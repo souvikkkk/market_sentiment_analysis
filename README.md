@@ -46,6 +46,12 @@ source venv/bin/activate
 # Install dependencies
 pip install pandas matplotlib seaborn streamlit
 
+### 🔹 To create `merged_data.csv`:   
+Run:
+```bash   
+python main.py     
+
+
 # Run the preprocessing + analysis
 python main.py      
 python -m streamlit run app.py
