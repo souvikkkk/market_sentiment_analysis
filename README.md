@@ -47,7 +47,7 @@ source venv/bin/activate
 pip install pandas matplotlib seaborn streamlit
 
 # Run the preprocessing + analysis
-python main.py
+python main.py      
 python -m streamlit run app.py
 
 
